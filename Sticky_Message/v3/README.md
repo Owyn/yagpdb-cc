@@ -38,4 +38,5 @@ Permissions available: Administrator, ManageServer, ReadMessages, SendMessages, 
 ```
 
 Here is an example with the default values:
-![Preview](https://i.imgur.com/ohRubPw.gif "Preview of the command")  
+![Preview](https://github.com/user-attachments/assets/e99fd223-0e2c-492a-ae84-452783bbf3f2)
+
